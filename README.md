@@ -2,7 +2,7 @@
 
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
-  <samp>Full stack deleloper in wobb.ai . 
+  <samp>Full stack Developer in wobb.ai . 
 
 </samp><br>
 </p>
