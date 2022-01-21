@@ -43,7 +43,7 @@
     
 <div align="center">
     
-![GitHub metrics](https://metrics.lecoq.io/Laliit-26)  
+![GitHub metrics](https://metrics.lecoq.io/shubhamy17)  
 </div>
     
 <div align="center">
@@ -68,7 +68,7 @@
     <a href="https://github.com/shubhamy17"><img src="forkit.gif "/></a> 
 </p>
 <!--
-**Laliit-26/Laliit-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shubhamy17/shubhamy17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
